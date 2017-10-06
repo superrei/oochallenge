@@ -18,5 +18,5 @@ Write a Java program to:
 
 Part II
 -------
-You boss told you that there will be some changes in the requirement, but he cannot confirm the detail yet, but you must start your work
+You boss told you that there will be some changes in the requirement. He cannot confirm the detail yet, but you must start your work
 now to meet the deadline. You boss told you that the upcoming changes will be "minor"...
