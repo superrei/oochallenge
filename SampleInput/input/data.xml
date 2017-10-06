@@ -1,0 +1,38 @@
+<data>
+	<book>
+		<title>Design Pattern</title>
+		<authors>Gamma, Helm, Johnson, Vlissides</authors>
+		<pages>732</pages>
+		<price>$39.99</price>
+		<category>Computer</category>
+		<hard-cover>y</hard-cover></book>
+	<movie>
+		<title>Star Wars IV: A New Hope</title>
+		<produce-by>Lucas Films</produce-by>
+		<length>245</length>
+		<price>$22.99</price>
+		<category>Sci-Fi</category></movie>
+	<software>
+		<title>Microsoft Office 365</title>
+		<produce-by>Microsoft</produce-by>
+		<category>Productivity</category>
+		<price>$14.99</price></software>
+	<movie>
+		<title>Lord of the Rings: The Fellowship of the Ring</title>
+		<produce-by>New Line Cinema</produce-by>
+		<length>175</length>
+		<price>$15.99</price>
+		<category>Fantasy</category>
+	</movie>
+	<book>
+		<title>Harry Potter and the Philosopher's Stone</title>
+		<authors>J.K.Rowling</authors>
+		<pages>223</pages>
+		<category>Fantasy</category>
+		<price>$9.99</price>
+		<hard-cover>n</hard-cover></book>
+	<software>
+		<title>Microsoft Windows 10 Home</title>
+		<produce-by>Microsoft</produce-by>
+		<category>Operating System</category>
+		<price>$29.99</price></software></data>
