@@ -1,0 +1,3 @@
+title|produce-by|category|length|price
+Star Wars IV: A New Hope|Lucas Films|Sci-Fi|245|HK$22.99
+Lord of the Rings: The Fellowship of the Ring|New Line Cinema|Fantasy|175|HK$15.99
