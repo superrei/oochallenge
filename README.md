@@ -20,4 +20,4 @@ You boss told you that there will be some changes in the requirement. He cannot 
 now to meet the deadline. You boss told you that the upcoming changes will be "minor"... You'll know the change once you complete Part I.
 
 ## Hint
-Remember, this purpose of this challenge is not test how you design an algorthm, or to test how you can implement a very fast and efficient program, but to test how well you can **use Object Oriented Software Design to tackle requirement change**.
+Remember, this purpose of this challenge is not test how you design an algorthm, or to test how you can implement a very fast and efficient program, but to test how well you can **use Object Oriented Software Design to reduce duplicated code and tackle requirement change**.
