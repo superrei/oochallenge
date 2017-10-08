@@ -22,4 +22,4 @@ now to meet the deadline. You boss told you that the upcoming changes will be "m
 You'll know the change once you complete Part I.
 
 ## Hint
-Remember, this purpose of this challenge is not test how you design an algorthm, or to test how you can implement a very fast and efficient program, but to test how well you can **use Object Oriented Software Design to reduce duplicated code and tackle requirement change**.
+Remember, the purpose of this challenge is not for testing how well you can design an algorthm, or to test how you can implement a very fast and efficient program, but to test how well you can **use Object Oriented Software Design to reduce duplicated code and tackle requirement change**.
